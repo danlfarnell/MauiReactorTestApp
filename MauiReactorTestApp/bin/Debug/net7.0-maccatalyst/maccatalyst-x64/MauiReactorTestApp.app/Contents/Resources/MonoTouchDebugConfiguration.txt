@@ -1,0 +1,13 @@
+IP: 192.168.8.10
+IP: fe80::2098:c6ff:fe35:88de%4
+IP: fe80::2098:c6ff:fe35:88e0%5
+IP: fe80::2098:c6ff:fe35:88df%6
+IP: fe80::2098:c6ff:fe35:88dd%7
+IP: fe80::803:e043:f593:601d%8
+IP: fe80::20a5:cbff:fec9:4a11%18
+IP: fe80::a01f:b9ff:fe10:7804%20
+IP: fe80::a01f:b9ff:fe10:7804%21
+IP: fe80::6aa3:b86a:23f0:f781%22
+IP: fe80::c9f9:b3ee:6994:44bb%23
+IP: fe80::ce81:b1c:bd2c:69e%24
+Port: 10000
